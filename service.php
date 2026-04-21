@@ -102,6 +102,6 @@
             </div>
         </div>
         <!-- Service End -->
-        
+        <!-- Footer start -->
 
 <?php require "includes/footer.php"; ?>
